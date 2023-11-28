@@ -8,11 +8,11 @@ useful, usable, and stable.
 
 The current members of the Council are:
 
-* Eric Traut (@erictraut)
-* Guido van Rossum (@gvanrossum)
-* Jelle Zijlstra (@JelleZijlstra)
-* Rebecca Chen (@rchen152)
-* Shantanu Jain (@hauntsaninja)
+* Eric Traut ([@erictraut](https://github.com/erictraut))
+* Guido van Rossum ([@gvanrossum](https://github.com/gvanrossum))
+* Jelle Zijlstra ([@JelleZijlstra](https://github.com/JelleZijlstra))
+* Rebecca Chen ([@rchen152](https://github.com/rchen152))
+* Shantanu Jain ([@hauntsaninja](https://github.com/hauntsaninja))
 
 ## Decisions
 
@@ -20,7 +20,7 @@ The Council makes decisions in response to issues opened on this repo. Such
 decisions include:
 
 * Substantive changes to the specification for the type system
-* Recommendations on PEPs that relate to typing
+* Recommendations on [PEPs that relate to typing](https://peps.python.org/topic/typing/)
 
 Any such issues should first be discussed on [discuss.python.org](https://discuss.python.org/c/typing/32)
 before being submitted for a decision.
