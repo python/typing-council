@@ -26,7 +26,8 @@ Any such issues should first be discussed on [discuss.python.org](https://discus
 before being submitted for a decision.
 
 Before the Council makes a decision, the community should get a chance
-to weigh in. The procedure for requesting a specification change is:
+to weigh in. The procedure for requesting a specification change
+without a PEP is:
 
 1. Post on [discuss.python.org](https://discuss.python.org/c/typing/32)
    about the topic
