@@ -12,7 +12,7 @@ The current members of the Council are:
 * Carl Meyer ([@carljm](https://github.com/carljm))
 * Jelle Zijlstra ([@JelleZijlstra](https://github.com/JelleZijlstra))
 * Rebecca Chen ([@rchen152](https://github.com/rchen152))
-* Shantanu Jain ([@hauntsaninja](https://github.com/hauntsaninja))
+* Jukka Lehtosalo ([@JukkaL](https://github.com/JukkaL))
 
 ## Decisions
 
