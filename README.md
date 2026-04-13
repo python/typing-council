@@ -8,7 +8,7 @@ useful, usable, and stable.
 
 The current members of the Council are:
 
-* Eric Traut ([@erictraut](https://github.com/erictraut))
+* Dave Halter ([@davidhalter](https://github.com/davidhalter))
 * Carl Meyer ([@carljm](https://github.com/carljm))
 * Jelle Zijlstra ([@JelleZijlstra](https://github.com/JelleZijlstra))
 * Rebecca Chen ([@rchen152](https://github.com/rchen152))
