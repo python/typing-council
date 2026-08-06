@@ -11,8 +11,8 @@ The current members of the Council are:
 * Dave Halter ([@davidhalter](https://github.com/davidhalter))
 * Carl Meyer ([@carljm](https://github.com/carljm))
 * Jelle Zijlstra ([@JelleZijlstra](https://github.com/JelleZijlstra))
+* Joren Hammudoglu ([@jorenham](https://github.com/jorenham))
 * Rebecca Chen ([@rchen152](https://github.com/rchen152))
-* Jukka Lehtosalo ([@JukkaL](https://github.com/JukkaL))
 
 ## Decisions
 
